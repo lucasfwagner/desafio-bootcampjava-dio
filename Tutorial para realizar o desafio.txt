@@ -5,7 +5,9 @@
 - Criar um repositório no github;
 - Criar uma nova pasta em c:/ e abrir *git bash here* ;
 - Executar o comando *git clone https://github.com/lucasfwagner/desafio-bootcampjava-dio.git* ;
-
 - Executar o comando *cd desafio-bootcampjava-dio* para entrar no repositório;
 - Executar o comando *git status* para verificar se está ok;
 - Criar uma nova pasta para colocar anotações, links e informações importantes relacionadas aos estudos.
+- Executar o comando *git add .* para incluir as alterações da pasta no domínio local;
+- Executar o comando *git commit -m "Inclusão das anotações de Git/Github"* para  criar um commit das alterações no domínio local;
+- Executar o comando *git push origin main* para enviar os commits para o repositório no github.
