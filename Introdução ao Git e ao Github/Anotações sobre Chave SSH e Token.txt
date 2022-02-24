@@ -1,0 +1,11 @@
+# Chave SSH
+
+O SSH (Secure Shell), também conhecido como Secure Socket Shell, é um protocolo que permite a conexão com servidores remotos, de forma criptografada e mais segura, usando um par de chaves RSA.
+
+Essa chave é como uma credencial. Para entendermos melhor, pense nessa ilustração: quando vamos a algum evento, talvez haja alguma catraca ou sistema de verificação na entrada do evento. Nós só podemos entrar no evento se possuirmos uma credencial, geralmente um crachá com nossos dados. Podemos dizer que uma chave SSH é como esse “crachá”, que vai nos permitir acessar o GitHub remotamente. Neste artigo iremos entender como funciona a criação dessa credencial.
+
+
+
+# TOKEN
+
+Um token de acesso, de forma simplificada, seria uma chave em um formato como e962e591092e9830f8ec6c2a4166e8655b768e88 que te permite ter acesso a algo. No caso do Github você usaria uma chave assim no lugar da senha da sua conta ao executar operações pela linha de comando ou na API.
