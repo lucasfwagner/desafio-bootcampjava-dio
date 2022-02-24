@@ -1,0 +1,11 @@
+# DESAFIO GIT/GITHUB
+
+### Passo a passo:
+
+- Criar um repositório no github;
+- Criar uma nova pasta em c:/ e abrir *git bash here* ;
+- Executar o comando *git clone https://github.com/lucasfwagner/desafio-bootcampjava-dio.git* ;
+
+- Executar o comando *cd desafio-bootcampjava-dio* para entrar no repositório;
+- Executar o comando *git status* para verificar se está ok;
+- Criar uma nova pasta para colocar anotações, links e informações importantes relacionadas aos estudos.
