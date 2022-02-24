@@ -1,0 +1,37 @@
+# Principais Comandos do Git Bash:
+
+- #### cd *nome da pasta*
+
+​		Entra na pasta.
+
+- #### cd ..
+
+​		Sai um nível de pasta
+
+- #### ctrl + L
+
+​		Limpa a tela
+
+- #### git init
+
+  Inicializa um repositório.
+
+- #### git status
+
+​		Verifica o estado dos seus arquivos.
+
+- #### git add *nome do arquivo*
+
+​		Envia seu arquivo pro stage.
+
+- #### git add - -all
+
+​		Envia todos os arquivos pro stage.
+
+- #### git commit -m "Titulo do Commit"
+
+​		Envia o que está no Stage para o HEAD.
+
+- #### git push origin master
+
+​		Envia os arquivos para o repositório remoto que você especificou através da URL do comando acima.
